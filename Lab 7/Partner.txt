@@ -1,0 +1,20 @@
+Lab 7 Split Work
+
+Working Group: Aaron Alvarez and Kayleen Ponce
+
+	CLASSES
+
+My Fraction Class
+-----Kayleen Ponce-----
+
+My Set Class
+-----Aaron Alvarez-----
+
+	
+	TESTER CLASSES
+
+My Fraction Tester Class
+-----Aaron Alvarez-----
+
+My Set Tester Class
+-----Kayleen Ponce-----

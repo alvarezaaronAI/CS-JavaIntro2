@@ -1,0 +1,36 @@
+ /*button*/
+.root{
+	-fx-text-fill: white;
+}
+ /*Title */
+.title-Label{
+	-fx-text-fill: white;
+	-fx-font-size: 20pt;
+}
+.title-Fx{
+	-fx-background-color:blue;
+}
+.map-grid-Color{
+	-fx-background-color:#0000cc;
+	-fx-vgap: 1;
+	-fx-hgap: 1;
+	-fx-padding: 6 14 6 14;
+}
+.sideWalls-Color{
+	-fx-background-color: #00ff99;
+	-fx-vgap: 1;
+	-fx-hgap: 1;
+	-fx-padding: 6 14 6 14;
+}
+.start-end-ColorG{
+	-fx-background-color:#ff0000;
+	-fx-vgap: 1;
+	-fx-hgap: 1;
+	-fx-padding: 6 14 6 14;
+
+}
+.start-end-ColorT{
+	-fx-fill: white;
+	-fx-padding: 6 14 6 14;
+	
+}
